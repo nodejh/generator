@@ -1,7 +1,7 @@
 {
   "name": "express-generator-plus",
   "description": "Express' application generator plus",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "nodejh <jianghangscu@gmail.com>",
   "contributors": [
     "nodejh <jianghangscu@gmail.com>"
